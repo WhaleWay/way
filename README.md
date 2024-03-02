@@ -1,0 +1,2 @@
+# way
+# https://tea.xyz/what-is-this-file --- version: 1.0.0 codeOwners:   - '0xb209e72685672658F092966132FF3b0d3378B5ad' quorum: 1
